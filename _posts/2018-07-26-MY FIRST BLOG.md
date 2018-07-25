@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/welcome.jpg
+cover:  assets/images/bus.jpg
 navigation: True
 title: My first blog
 date: 2018-07-26 10:00:00
